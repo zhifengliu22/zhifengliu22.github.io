@@ -7,6 +7,7 @@ layout: splash
 
 
 # Papers and Works in Progress
+(English and Chinese Papers)
 
 Yang JQ, <b>Liu ZF</b>.The effect of citation behaviour on knowledge diffusion and intellectual structure.
 <b>(Journal of Informetrics).</b>
