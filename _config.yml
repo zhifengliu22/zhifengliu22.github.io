@@ -69,7 +69,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "zhifengliu@stu.pku.edu.cn"
+      url: "mailto:zhifengliu@stu.pku.edu.cn"
     - label: "Pku Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.pku.edu.cn/"
