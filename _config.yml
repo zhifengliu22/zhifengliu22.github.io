@@ -62,39 +62,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Bernie"
+  name   : "Zhifeng Liu"
   avatar : "https://avatars.githubusercontent.com/u/293553?s=400&u=a3aa1ae757db01ea9a37d33e0691cbe03ec65c2f&v=4"
-  bio    : "I am a PhD student in the Sociology Department at UCLA interested in science and culture. I also dabble in machine learning, causal inference, and Bayesian modeling."
-  location: "Los Angeles, CA"
+  bio    : "I am Zhifeng Liu, a phd student at the Department of Information Management, Peking University."
+  location: "Beijing, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bernard.koch@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kochbj"
-    - label: "UCLA Website"
+      url: "zhifengliu@stu.pku.edu.cn"
+    - label: "Pku Website"
       icon: "fas fa-fw fa-link"
-      url: "https://soc.ucla.edu/grads/bernard-koch"
-    - label: "LinkedIn"
+      url: "https://www.pku.edu.cn/"
+    - label: "Researchgate"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bernard-koch-b2a5546a/"
+      url: "https://www.researchgate.net/profile/Zhifeng-Liu-14"
      
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bernard.koch@gmail.com"  
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bernard-koch-b2a5546a/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "zhifengliu@stu.pku.edu.cn"  
+
 
 defaults:
   # _posts
