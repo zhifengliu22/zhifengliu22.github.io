@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bernard J. Koch
-email: bernard.koch@gmail.com
+title: Zhifeng Liu
+email: zhifengliu@stu.pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Bernard J. Koch (social scientist)'s personal website.
-twitter_username: bernardjkoch
-github_username: kochbj
+  Zhifeng Liu's personal website.
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: contrast
 search: true
 
