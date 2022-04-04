@@ -5,6 +5,18 @@ date: 2021-05-06
 layout: archive
 classes: wide
 
+# Tutorials
+feature_row:
+- title: "Causal Inference"
+  alt: ""
+  image_path: /files/DLPOIcon.JPG
+  excerpt: "Causal Inference in Information Science."
+  url: "/dlci/"
+- title: "Social Network"
+  image_path: /files/White-Square.jpg
+  excerpt: "Social Network in Science of Science."
+  url: "/literate/"
+
 ---
 # Hello!
 I'm Zhifengliu. You can check out my homepage to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
