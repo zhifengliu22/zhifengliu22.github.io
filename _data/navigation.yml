@@ -1,8 +1,10 @@
 main:
   - title: "About"
     url: /about/ 
+  - title: "CV"
   - title: "Papers"
     url: /papers/    
+  - title: "Tutorials"
 
   #- title: "Posts"
   #  url: /posts/
