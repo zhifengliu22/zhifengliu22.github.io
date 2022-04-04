@@ -83,8 +83,17 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "zhifengliu@stu.pku.edu.cn"  
-
-
+    - label: "Pku Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.pku.edu.cn/"
+    - label: "Researchgate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Zhifeng-Liu-14"
+    - label: "Google Scholar"
+      icon: "fab fa-Google Scholar"
+      url: "https://scholar.google.nl/citations?hl=en&user=DedGwY8AAAAJ"
+      
+      
 defaults:
   # _posts
   - scope:
