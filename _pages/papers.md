@@ -7,7 +7,7 @@ layout: splash
 
 
 # Papers and Works in Progress
-(English and Chinese Papers)
+(English and Chinese Papers, \* denotes equal contribution, \# denotes corresponding author)
 
 Yang JQ, <b>Liu ZF*</b>.The effect of citation behaviour on knowledge diffusion and intellectual structure.
 <b>(Journal of Informetrics).</b>
@@ -47,5 +47,3 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 
 <b>刘智锋</b>,夏晨曦,黄梨,莫雪盈,马国庆,马敬东.糖尿病领域本体构建与语义推理实现.
 <b>(中华医学图书情报杂志).</b>
-
-[\* denotes equal contribution, \# denotes corresponding author]
