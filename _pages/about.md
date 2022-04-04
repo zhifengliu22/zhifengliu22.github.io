@@ -4,9 +4,10 @@ title: "About"
 layout: splash
 ---
 
-Prior to that, I received a bachelor’s degree in information management and system from Huazhong University of Science and Technology and a master's degree in information science from Wuhan University. My research interests cover a broad range of areas, including scientometrics, science of science, and science and technology policy. My work has been published in peer-reviewed journals, such as Journal of Informetrics, Knowledge Organization.
+# About Me
+I am Zhifeng Liu, a phd student at the Department of Information Management, Peking University. Prior to that, I received a bachelor’s degree in information management and system from Huazhong University of Science and Technology and a master's degree in information science from Wuhan University. My research interests cover a broad range of areas, including scientometrics, science of science, and science and technology policy. My work has been published in peer-reviewed journals, such as Journal of Informetrics, Knowledge Organization.
 
-# Research interests
+# Research Interests
 scientometrics   
 science of science   
 science and technology policy   
