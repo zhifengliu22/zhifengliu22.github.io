@@ -15,7 +15,11 @@ feature_row:
   image_path: /files/White-Square.jpg
   excerpt: "Social Network in Science of Science."
   url: "/literate/"
-
+- title: "Machine Learning"
+  image_path: /files/White-Square.jpg
+  excerpt: "Machine Learning in Scientometrics."
+  url: "/literate/"
+  
 ---
 # Tutorials 
 
