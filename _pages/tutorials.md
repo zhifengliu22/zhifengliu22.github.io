@@ -6,15 +6,16 @@ layout: splash
 
 # Tutorials
 feature_row:
+
+  title: "Causal Inference"
+  excerpt: "Causal Inference in Information Science."
 - image_path: /files/DLPOIcon.JPG
   alt: ""
-  title: "DL + PO"
-  excerpt: "Building deep learning estimators for causal inference."
   url: "/dlci/"
+  
+  title: "Social Network"
 - image_path: /files/White-Square.jpg
-- image_path: /files/LiteRateIcon.png
-  title: "LiteRate"
-  excerpt: "Studying cultural change through birth/death rates."
+  excerpt: "Social Network in Scientometrics and Science of Science."
   url: "/literate/"
 
 ---
