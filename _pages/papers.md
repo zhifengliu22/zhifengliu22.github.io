@@ -21,6 +21,9 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 <b>Liu ZF</b>, Li X, Cheng Q, Lu W.Author-selected keyword semantic function Analysis-a case study of informetrics.
 <b>(In Proceedings of the 17th International Conference on Scientometrics & Informetrics (ISSI 2019)).</b>
 
+<b>Liu ZF</b>, Li X, Cheng Q, Lu W.Patterns of author keywords in academic papers from the behavioral and semantic perspectives.
+<b>(In JCDL 2019 workshop 4: Organizing Data, Information, and Knowledge in Big Data Environments).</b>
+
 <b>刘智锋</b>,马永强,杨金庆,陆伟.词汇功能视角下关键词生存时间影响因素研究.
 <b>(in Progress).</b>
 
@@ -47,3 +50,4 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 
 <b>刘智锋</b>,夏晨曦,黄梨,莫雪盈,马国庆,马敬东.糖尿病领域本体构建与语义推理实现.
 <b>(中华医学图书情报杂志).</b>
+
