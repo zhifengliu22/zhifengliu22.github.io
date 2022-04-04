@@ -8,12 +8,12 @@ layout: splash
 feature_row:
 - title: "Causal Inference"
   alt: ""
-  excerpt: "Causal Inference in Information Science."
   image_path: /files/DLPOIcon.JPG
+  excerpt: "Causal Inference in Information Science."
   url: "/dlci/"
 - title: "Social Network"
-  excerpt: "Social Network in Scientometrics and Science of Science."
   image_path: /files/White-Square.jpg
+  excerpt: "Social Network in Science of Science."
   url: "/literate/"
 
 ---
