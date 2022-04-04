@@ -5,7 +5,8 @@ main:
   - title: "Papers"
     url: /papers/    
   - title: "Tutorials"
-
+    url: /tutorials/
+    
   #- title: "Posts"
   #  url: /posts/
   #- title: "Categories"
