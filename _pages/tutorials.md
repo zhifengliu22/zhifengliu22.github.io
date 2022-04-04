@@ -8,7 +8,7 @@ layout: splash
 feature_row:
 - title: "Causal Inference"
   alt: ""
-- excerpt: "Causal Inference in Information Science."
+  excerpt: "Causal Inference in Information Science."
   image_path: /files/DLPOIcon.JPG
   url: "/dlci/"
 - title: "Social Network"
