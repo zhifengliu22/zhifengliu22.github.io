@@ -4,6 +4,14 @@ title: "About"
 layout: splash
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Prior to that, I received a bachelor’s degree in information management and system from Huazhong University of Science and Technology and a master's degree in information science from Wuhan University. My research interests cover a broad range of areas, including scientometrics, science of science, and science and technology policy. My work has been published in peer-reviewed journals, such as Journal of Informetrics, Knowledge Organization.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Research interests
+scientometrics
+science of science
+science and technology policy
+
+# Education
+2014.09-2018.06 Huazhong University of Science and Technology, Bachelor of Management in Information management and system
+2018.09-2021.06 Wuhan University, Master of Management in Information science
+2021.09-Now     Peking Yniversity, Phd student in Information science
