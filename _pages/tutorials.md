@@ -6,10 +6,10 @@ layout: splash
 
 # Tutorials
 feature_row:
+- title: "Causal Inference"
   alt: ""
-  title: "Causal Inference"
   excerpt: "Causal Inference in Information Science."
-- image_path: /files/DLPOIcon.JPG
+  image_path: /files/DLPOIcon.JPG
   url: "/dlci/"
   title: "Social Network"
 - image_path: /files/White-Square.jpg
