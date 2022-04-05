@@ -7,18 +7,15 @@ classes: wide
 
 # Tutorials
 feature_row:
+feature_row:
 - title: "Causal Inference"
   alt: ""
-  image_path: /files/DLPOIcon.JPG
+  image_path: /files/causal inference.jpg
   excerpt: "Causal Inference in Information Science."
   url: "/dlci/"
 - title: "Social Network"
-  image_path: /files/White-Square.jpg
+  image_path: /files/social network.jpg
   excerpt: "Social Network in Science of Science."
-  url: "/literate/"
-- title: "Machine Learning"
-  image_path: /files/White-Square.jpg
-  excerpt: "Machine Learning in Scientometrics."
   url: "/literate/"
 
 ---
