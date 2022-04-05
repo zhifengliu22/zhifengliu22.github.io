@@ -13,6 +13,7 @@ feature_row:
   excerpt: "Causal Inference in Information Science."
   url: "/dlci/"
 - image_path: /files/social network.jpg
+- image_path: /files/social network.jpg
   title: "Social Network"
   excerpt: "Social Network in Science of Science."
   url: "/literate/"
