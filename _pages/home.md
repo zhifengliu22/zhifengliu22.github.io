@@ -7,19 +7,19 @@ classes: wide
 
 # Tutorials
 feature_row:
-- image_path: /files/Causal Inference.jpg
-  title: "Causal Inference"
+- title: "Causal Inference"
   excerpt: "Causal Inference in Information Science."
-  url: "/dlci/"
-- image_path: /files/Social Network.jpg
-  title: "Social Network"
+  image_path: /files/Causal Inference.jpg
+  url: "/Causal-Inference/"
+- title: "Social Network"
   excerpt: "Social Network in Science of Science."
-  url: "/literate/"
-- image_path: /files/Machine Learning.jpg
-  title: "Machine Learning"
+  image_path: /files/Social Network.jpg
+  url: "/Social-Network/"
+- title: "Machine Learning"
   excerpt: "Machine Learning in Scientometrics."
-  url: "/literate/"
-
+  image_path: /files/Machine Learning.jpg
+  url: "/Machine-Learning/"
+  
 ---
 # Hello!
 I'm Zhifengliu. You can check out my homepage to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
