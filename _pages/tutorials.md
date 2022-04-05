@@ -10,14 +10,14 @@ feature_row:
   excerpt: "Causal Inference in Information Science."
   image_path: /files/Causal Inference.jpg
   url: "/Causal-Inference/"
-- title: "Social-Network"
+- title: "Social Network"
   excerpt: "Social Network in Science of Science."
   image_path: /files/Social Network.jpg
-  url: "/Social Network/"
-- title: "Machine-Learning"
+  url: "/Social-Network/"
+- title: "Machine Learning"
   excerpt: "Machine Learning in Scientometrics."
   image_path: /files/Machine Learning.jpg
-  url: "/Machine Learning/"
+  url: "/Machine-Learning/"
 
 ---
 # Tutorials 
