@@ -7,7 +7,6 @@ classes: wide
 
 # Tutorials
 feature_row:
-feature_row:
 - image_path: /files/causal inference.jpg
   alt: ""
   title: "Causal Inference"
