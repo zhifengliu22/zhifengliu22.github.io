@@ -12,14 +12,10 @@ feature_row:
   excerpt: "Causal Inference in Information Science."
   url: "/dlci/"
 - title: "Social Network"
-  image_path: /files/White-Square.jpg
+  image_path: /files/social network.jpg
   excerpt: "Social Network in Science of Science."
   url: "/literate/"
-- title: "Machine Learning"
-  image_path: /files/White-Square.jpg
-  excerpt: "Machine Learning in Scientometrics."
-  url: "/literate/"
-  
+
 ---
 # Tutorials 
 
