@@ -14,6 +14,7 @@ feature_row:
   title: "Social Network"
   excerpt: "Social Network in Science of Science."
   url: "/literate/"
+  alt: ""
 - image_path: /files/Machine Learning.jpg
   title: "Machine Learning"
   excerpt: "Machine Learning in Scientometrics."
