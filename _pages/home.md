@@ -17,7 +17,7 @@ feature_row:
   url: "/literate/"
 - image_path: /files/Machine Learning.jpg
   title: "Machine Learning"
-  excerpt: "machine learning in Scientometrics."
+  excerpt: "Machine Learning in Scientometrics."
   url: "/literate/"
 
 ---
