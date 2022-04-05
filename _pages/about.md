@@ -24,4 +24,4 @@ science and technology policy
 # Awards and Honors
 2021.06 Excellent graduate student of Wuhan University   
 2020.12 National scholarship for Postgraduates   
-2018.06 Excellent graduates of Huazhong University of science and technology   
+2018.06 Excellent undergraduate student of Huazhong University of science and technology   
