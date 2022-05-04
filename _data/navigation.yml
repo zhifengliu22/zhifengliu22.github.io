@@ -7,6 +7,8 @@ main:
     url: /tutorials/
   - title: "CV"
     url: /CV/
+  - title: "中文"
+    url: /Chinese/
   
   #- title: "Posts"
   #  url: /posts/
