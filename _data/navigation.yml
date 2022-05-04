@@ -8,7 +8,7 @@ main:
   - title: "CV"
     url: /CV/
   - title: "中文"
-    url: /Chinese/
+    url: http://scholar.pku.edu.cn/zhifengliu
   
   #- title: "Posts"
   #  url: /posts/
