@@ -22,6 +22,6 @@ science and technology policy
 2014.09-2018.06 Huazhong University of Science and Technology, Bachelor of Management in Information management and system   
 
 # Awards and Honors
-2021.06 Excellent graduate student of Wuhan University   
 2020.12 National scholarship for Postgraduates   
+2021.06 Excellent graduate student of Wuhan University   
 2018.06 Excellent undergraduate student of Huazhong University of science and technology   
