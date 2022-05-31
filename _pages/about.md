@@ -17,7 +17,7 @@ science and technology policy
 2022.03-2022.07 Applied quantitative analysis, Peking University   
 
 # Education
-2021.09-2025.07 Peking Yniversity, Phd student in Information science   
+2021.09-2025.07 Peking University, Phd student in Information science   
 2018.09-2021.06 Wuhan University, Master of Management in Information science   
 2014.09-2018.06 Huazhong University of Science and Technology, Bachelor of Management in Information management and system   
 
