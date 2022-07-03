@@ -30,6 +30,9 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 <b>刘智锋</b>,杨金庆,马永强,陆伟.词汇功能视角下的关键词生存模式研究.
 <b>(in Progress).</b>
 
+王世奇,<b>刘智锋</b>,王继民.学者画像研究综述.
+<b>(in Progress).</b>
+
 王若佳,王继民,<b>刘智锋</b>,聂磊.面向健康信息学领域的科学数据集发现与特征分析.
 <b>(in Progress).</b>
 
