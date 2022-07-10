@@ -21,12 +21,6 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 <b>Liu ZF</b>, Li X, Cheng Q, Lu W.Author-selected keyword semantic function Analysis-a case study of informetrics.
 <b>(In Proceedings of the 17th International Conference on Scientometrics & Informetrics (ISSI 2019)).</b>
 
-<b>刘智锋</b>,马永强,杨金庆,陆伟.词汇功能视角下关键词生存时间影响因素研究.
-<b>(in Progress).</b>
-
-<b>刘智锋</b>,杨金庆,马永强,陆伟.词汇功能视角下的关键词生存模式研究.
-<b>(in Progress).</b>
-
 王世奇,<b>刘智锋</b>,王继民.学者画像研究综述.
 <b>(in Progress).</b>
 
@@ -35,6 +29,12 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 
 <b>刘智锋</b>,王继民,李倩.元数据质量评价研究综述.
 <b>(情报理论与实践).</b>
+
+<b>刘智锋</b>,马永强,杨金庆,陆伟.词汇功能视角下关键词生存时间影响因素研究.
+<b>(in Progress).</b>
+
+<b>刘智锋</b>,杨金庆,马永强,陆伟.词汇功能视角下的关键词生存模式研究.
+<b>(in Progress).</b>
 
 <b>刘智锋</b>,马永强,杨金庆.引文学科多样性与论文影响力关系研究.
 <b>(情报杂志).</b>
