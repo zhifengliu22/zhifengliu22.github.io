@@ -48,6 +48,3 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 <b>刘智锋</b>,杨金庆,李信.2019国际科学计量学与信息计量学国际学术研讨会主题分析.
 <b>(数字图书馆论坛).</b>
 
-<b>刘智锋</b>,夏晨曦,黄梨,莫雪盈,马国庆,马敬东.糖尿病领域本体构建与语义推理实现.
-<b>(中华医学图书情报杂志).</b>
-
