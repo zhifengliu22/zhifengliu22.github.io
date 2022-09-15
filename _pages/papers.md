@@ -22,7 +22,7 @@ Lu W, Li X, <b>Liu ZF</b>, Cheng Q.How do author-selected keywords function sema
 <b>(In Proceedings of the 17th International Conference on Scientometrics & Informetrics (ISSI 2019)).</b>
 
 王世奇,<b>刘智锋</b>,王继民.学者画像研究综述.
-<b>(in Progress).</b>
+<b>(图书情报工作).</b>
 
 王若佳,<b>刘智锋</b>,王继民,聂磊.面向健康信息学领域的科学数据使用与推荐研究.
 <b>(in Progress).</b>
